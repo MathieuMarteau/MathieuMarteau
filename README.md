@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello ! 👋🏼
+
+Je m'appelle Mathieu et je suis Développeur Web Freelance à Lille. Ce serait un grand plaisir de vous accompagner dans des projets autour du Web.
+
+Pour en savoir plus sur moi et me contacter : https://mathieu-marteau.fr 🧑🏼‍💻
 
 <!--
 **MathieuMarteau/MathieuMarteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
